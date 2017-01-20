@@ -5,7 +5,9 @@
   
 ## 源码说明
 
-    本项目基于vue2.0+webpack+vue-router+vue-resource 实现。 跳转这里参见[后端代码](https://github.com/LuoYuWuSheng/What2Eat)
+    本项目基于vue2.0+webpack+vue-router+vue-resource 实现。
+    
+    跳转这里参见[后端代码](https://github.com/LuoYuWuSheng/What2Eat)
 
 ## 运行程序
   ``` bash
